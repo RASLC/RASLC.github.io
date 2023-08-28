@@ -20,8 +20,8 @@
 	<main>
 		<article>
 			<h2>My First Post</h2>
-			![darktable_6DYS0g7F3z](https://github.com/RASLC/RASLC.github.io/assets/47405157/cfb1f5d8-0b29-4026-a7b8-bf12490b4889)
-			.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat augue eget odio aliquet dignissim. Donec sit amet nulla nec nulla iaculis tincidunt. Vivamus vitae lectus purus. Sed auctor nisi eu commodo vestibulum. Aliquam vel tortor urna. Duis tincidunt est nec justo rhoncus dignissim. Sed eget enim eleifend, placerat dolor vel, dignissim turpis. Integer commodo orci a metus rhoncus commodo. Fusce varius tristique ipsum, in bibendum neque lacinia eu. Nullam a lacus tortor. Sed nec pulvinar justo. Vestibulum sed tellus quis odio vulputate molestie. Duis non mi ac justo aliquet sollicitudin sed vel tortor. Nunc commodo neque eu mi varius, vitae efficitur nisl tincidunt.</p>
+			
+			<p> ![darktable_6DYS0g7F3z](https://github.com/RASLC/RASLC.github.io/assets/47405157/cfb1f5d8-0b29-4026-a7b8-bf12490b4889) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat augue eget odio aliquet dignissim. Donec sit amet nulla nec nulla iaculis tincidunt. Vivamus vitae lectus purus. Sed auctor nisi eu commodo vestibulum. Aliquam vel tortor urna. Duis tincidunt est nec justo rhoncus dignissim. Sed eget enim eleifend, placerat dolor vel, dignissim turpis. Integer commodo orci a metus rhoncus commodo. Fusce varius tristique ipsum, in bibendum neque lacinia eu. Nullam a lacus tortor. Sed nec pulvinar justo. Vestibulum sed tellus quis odio vulputate molestie. Duis non mi ac justo aliquet sollicitudin sed vel tortor. Nunc commodo neque eu mi varius, vitae efficitur nisl tincidunt.</p>
 		</article>
 		<article>
 			<h2>My Second Post</h2>
